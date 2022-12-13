@@ -13,3 +13,7 @@
 ![게시글](https://user-images.githubusercontent.com/101082700/207240564-ca5e9dbe-a35a-43fe-9d0b-2afc7eed1b3f.png)
 
 회원들이 올린 게시글입니다.
+
+![게시글](https://user-images.githubusercontent.com/101082700/207241001-d92c6b34-9e07-4956-a2f8-541e36bbae97.png)
+ 
+ 게시물 검색 화면입니다.
