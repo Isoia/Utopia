@@ -14,6 +14,6 @@
 
 회원들이 올린 게시글입니다.
 
-![게시글](https://user-images.githubusercontent.com/101082700/207241001-d92c6b34-9e07-4956-a2f8-541e36bbae97.png)
+![검색화면](https://user-images.githubusercontent.com/101082700/207241121-57aad1a1-78f5-48f1-9162-a4a60e8a347c.png)
  
  게시물 검색 화면입니다.
