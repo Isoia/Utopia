@@ -10,3 +10,6 @@
 
 회원가입시 카카오 맵 api를 이용해 주소를 받아오고 그 주소 지역의 날씨,기온을 토대로 게시글을 추천해줍니다
 
+![게시글](https://user-images.githubusercontent.com/101082700/207240564-ca5e9dbe-a35a-43fe-9d0b-2afc7eed1b3f.png)
+
+회원들이 올린 게시글입니다.
